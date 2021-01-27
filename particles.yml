@@ -1,0 +1,16 @@
+---
+py: Spectrum particle.
+cy: Boolean particle.
+sy: Object particle.
+ky: Enumeration particle.
+dy: Question.
+pa: Spectrum position far left.
+ca: Spectrum position mid left.
+sa: Spectrum position left.
+ka: Spectrum position neutral.
+da: Spectrum position right.
+ja: Spectrum position mid right.
+ra: Spectrum position far right.
+va: Spectrum position not on the spectrum.
+yypo: Boolean true.
+yyco: Boolean false.

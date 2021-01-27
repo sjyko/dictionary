@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+div > input {
+    margin-right: 5px;
+}
+
+div > button {
+    margin-left: 5px;
+}
